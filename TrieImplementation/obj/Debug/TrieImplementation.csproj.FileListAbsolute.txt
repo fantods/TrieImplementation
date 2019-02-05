@@ -1,0 +1,7 @@
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\bin\Debug\TrieImplementation.exe.config
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\bin\Debug\TrieImplementation.exe
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\bin\Debug\TrieImplementation.pdb
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\obj\Debug\TrieImplementation.csprojAssemblyReference.cache
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\obj\Debug\TrieImplementation.csproj.CoreCompileInputs.cache
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\obj\Debug\TrieImplementation.exe
+C:\Users\matt\dev\TrieImplementation\TrieImplementation\obj\Debug\TrieImplementation.pdb
